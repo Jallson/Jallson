@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jallson
 - 👀 I loved to disassembling, fixing, and making things
-- 🌱 I’m currently learning about embedded ML model in MCU
+- 🌱 I’m currently learning about embedded ML model
 - 📫 Email me to reach: jallson.suryo@gmail.com
 
 <!---
